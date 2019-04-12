@@ -1,5 +1,5 @@
 <template>
-	<div class="renew">续约</div>
+	<div class="index-wrap">首页</div>
 </template>
 
 <script type="text/ecmascript-6">
@@ -33,7 +33,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss" rel="stylesheet/scss">
-	.renew{
+	.index-wrap{
 		@include wh(200px,200px);
 		border:1px solid #ccc;
 	}
